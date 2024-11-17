@@ -1,7 +1,6 @@
 // https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFBOTTLE
 
 #include <iostream>
-
 using namespace std;
 
 int main()
