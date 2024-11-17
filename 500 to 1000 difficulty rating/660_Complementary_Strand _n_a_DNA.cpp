@@ -1,7 +1,6 @@
 // https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DNASTRAND?tab=statement
 
 #include<iostream>
-
 #include<string>
 
 using namespace std;
