@@ -1,6 +1,6 @@
 // https://www.codechef.com/problems/FCTRL2?tab=statement
 
-#include <iostream>
+#include <iostream>st655w
 #include <vector>
 using namespace std;
 
