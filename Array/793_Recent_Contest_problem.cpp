@@ -1,10 +1,11 @@
 // https://www.codechef.com/problems/RECENTCONT?tab=statement
 
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main() {
+int main()
+{
     // your code goes here
     int t;
     cin >> t;
@@ -17,9 +18,8 @@ int main() {
         while (n--)
         {
             cin >> s;
-            
-           // if (s[0] == 'S')
-           if(s == "START38")
+            // if (s[0] == 'S')
+            if (s == "START38")
             {
                 result1 += 1;
             }
@@ -27,10 +27,8 @@ int main() {
             {
                 result2 += 1;
             }
-
         }
         cout << result1 << " " << result2 << endl;
     }
     return 0;
-
 }
