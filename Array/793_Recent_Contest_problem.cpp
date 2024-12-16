@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    // your code goes 
+    // your code goes etgrtyrtrwe
     int t;
     cin >> t;
     while (t--)
